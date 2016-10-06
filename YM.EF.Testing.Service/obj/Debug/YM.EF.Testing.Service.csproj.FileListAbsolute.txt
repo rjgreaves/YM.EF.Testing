@@ -1,0 +1,12 @@
+C:\Code\YM.EF.Testing\YM.EF.Testing.Service\bin\Debug\YM.EF.Testing.Service.dll.config
+C:\Code\YM.EF.Testing\YM.EF.Testing.Service\bin\Debug\YM.EF.Testing.Service.dll
+C:\Code\YM.EF.Testing\YM.EF.Testing.Service\bin\Debug\YM.EF.Testing.Service.pdb
+C:\Code\YM.EF.Testing\YM.EF.Testing.Service\bin\Debug\EntityFramework.dll
+C:\Code\YM.EF.Testing\YM.EF.Testing.Service\bin\Debug\EntityFramework.SqlServer.dll
+C:\Code\YM.EF.Testing\YM.EF.Testing.Service\bin\Debug\YM.EF.Testing.Data.dll
+C:\Code\YM.EF.Testing\YM.EF.Testing.Service\bin\Debug\YM.EF.Testing.Data.pdb
+C:\Code\YM.EF.Testing\YM.EF.Testing.Service\bin\Debug\EntityFramework.xml
+C:\Code\YM.EF.Testing\YM.EF.Testing.Service\bin\Debug\EntityFramework.SqlServer.xml
+C:\Code\YM.EF.Testing\YM.EF.Testing.Service\obj\Debug\YM.EF.Testing.Service.csprojResolveAssemblyReference.cache
+C:\Code\YM.EF.Testing\YM.EF.Testing.Service\obj\Debug\YM.EF.Testing.Service.dll
+C:\Code\YM.EF.Testing\YM.EF.Testing.Service\obj\Debug\YM.EF.Testing.Service.pdb
